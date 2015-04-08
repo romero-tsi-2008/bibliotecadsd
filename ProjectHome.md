@@ -1,0 +1,1 @@
+A Biblioteca Online é um sistema desenvolvido por alunos do curso Superior em Sistemas para Internet do IFPB o qual visa oferecer a seus usuários uma junção das fucionalidades de uma biblioteca convencional com as funcionalidades de uma livraria online.
